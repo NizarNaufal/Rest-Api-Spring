@@ -1,0 +1,5 @@
+<jmapper>
+    <class name="com.nizar.restapispring.entity.Mahasiswa">
+        <global/>
+    </class>
+</jmapper>

@@ -1,0 +1,5 @@
+<jmapper>
+    <class name="com.nizar.restapispring.dto.MahasiswaDTO">
+        <global/>
+    </class>
+</jmapper>
